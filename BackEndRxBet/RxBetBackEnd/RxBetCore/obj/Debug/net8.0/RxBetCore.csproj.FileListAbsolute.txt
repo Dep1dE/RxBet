@@ -1,0 +1,14 @@
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetCore\bin\Debug\net8.0\RxBetCore.deps.json
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetCore\bin\Debug\net8.0\RxBetCore.runtimeconfig.json
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetCore\bin\Debug\net8.0\RxBetCore.dll
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetCore\bin\Debug\net8.0\RxBetCore.pdb
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetCore\obj\Debug\net8.0\RxBetCore.csproj.AssemblyReference.cache
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetCore\obj\Debug\net8.0\RxBetCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetCore\obj\Debug\net8.0\RxBetCore.AssemblyInfoInputs.cache
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetCore\obj\Debug\net8.0\RxBetCore.AssemblyInfo.cs
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetCore\obj\Debug\net8.0\RxBetCore.csproj.CoreCompileInputs.cache
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetCore\obj\Debug\net8.0\RxBetCore.dll
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetCore\obj\Debug\net8.0\refint\RxBetCore.dll
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetCore\obj\Debug\net8.0\RxBetCore.pdb
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetCore\obj\Debug\net8.0\RxBetCore.genruntimeconfig.cache
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetCore\obj\Debug\net8.0\ref\RxBetCore.dll

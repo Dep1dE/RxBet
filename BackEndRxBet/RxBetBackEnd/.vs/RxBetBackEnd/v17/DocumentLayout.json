@@ -1,0 +1,430 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WorkTable\\BSUIR\\oop\\RxBet\\BackEndRxBet\\RxBetBackEnd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A5FAD10-DB41-40C1-8922-FDB86D8D312D}|RxBetDataBase\\RxBetDataBase.csproj|d:\\worktable\\bsuir\\oop\\rxbet\\backendrxbet\\rxbetbackend\\rxbetdatabase\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A5FAD10-DB41-40C1-8922-FDB86D8D312D}|RxBetDataBase\\RxBetDataBase.csproj|solutionrelative:rxbetdatabase\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A5FAD10-DB41-40C1-8922-FDB86D8D312D}|RxBetDataBase\\RxBetDataBase.csproj|d:\\worktable\\bsuir\\oop\\rxbet\\backendrxbet\\rxbetbackend\\rxbetdatabase\\configurations\\betconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A5FAD10-DB41-40C1-8922-FDB86D8D312D}|RxBetDataBase\\RxBetDataBase.csproj|solutionrelative:rxbetdatabase\\configurations\\betconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A5FAD10-DB41-40C1-8922-FDB86D8D312D}|RxBetDataBase\\RxBetDataBase.csproj|d:\\worktable\\bsuir\\oop\\rxbet\\backendrxbet\\rxbetbackend\\rxbetdatabase\\repositories\\usersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A5FAD10-DB41-40C1-8922-FDB86D8D312D}|RxBetDataBase\\RxBetDataBase.csproj|solutionrelative:rxbetdatabase\\repositories\\usersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A5FAD10-DB41-40C1-8922-FDB86D8D312D}|RxBetDataBase\\RxBetDataBase.csproj|d:\\worktable\\bsuir\\oop\\rxbet\\backendrxbet\\rxbetbackend\\rxbetdatabase\\models\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A5FAD10-DB41-40C1-8922-FDB86D8D312D}|RxBetDataBase\\RxBetDataBase.csproj|solutionrelative:rxbetdatabase\\models\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A5FAD10-DB41-40C1-8922-FDB86D8D312D}|RxBetDataBase\\RxBetDataBase.csproj|d:\\worktable\\bsuir\\oop\\rxbet\\backendrxbet\\rxbetbackend\\rxbetdatabase\\models\\betentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A5FAD10-DB41-40C1-8922-FDB86D8D312D}|RxBetDataBase\\RxBetDataBase.csproj|solutionrelative:rxbetdatabase\\models\\betentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C767A3E-898E-4904-BF66-3D8980EC812E}|RxBetBackEnd\\RxBetBackEnd.csproj|d:\\worktable\\bsuir\\oop\\rxbet\\backendrxbet\\rxbetbackend\\rxbetbackend\\contracts\\users\\loginuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C767A3E-898E-4904-BF66-3D8980EC812E}|RxBetBackEnd\\RxBetBackEnd.csproj|solutionrelative:rxbetbackend\\contracts\\users\\loginuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A499FD6D-8A1B-4291-85B7-B91775E2A463}|RxBetAuthorization\\RxBetAuthorization.csproj|d:\\worktable\\bsuir\\oop\\rxbet\\backendrxbet\\rxbetbackend\\rxbetauthorization\\services\\usersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A499FD6D-8A1B-4291-85B7-B91775E2A463}|RxBetAuthorization\\RxBetAuthorization.csproj|solutionrelative:rxbetauthorization\\services\\usersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A499FD6D-8A1B-4291-85B7-B91775E2A463}|RxBetAuthorization\\RxBetAuthorization.csproj|d:\\worktable\\bsuir\\oop\\rxbet\\backendrxbet\\rxbetbackend\\rxbetauthorization\\rxbetauthorization.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A499FD6D-8A1B-4291-85B7-B91775E2A463}|RxBetAuthorization\\RxBetAuthorization.csproj|solutionrelative:rxbetauthorization\\rxbetauthorization.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F14CE5A-6734-40E1-A947-5835C6FDD128}|Infrastructure\\Infrastructure.csproj|d:\\worktable\\bsuir\\oop\\rxbet\\backendrxbet\\rxbetbackend\\infrastructure\\jwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F14CE5A-6734-40E1-A947-5835C6FDD128}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\jwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C767A3E-898E-4904-BF66-3D8980EC812E}|RxBetBackEnd\\RxBetBackEnd.csproj|d:\\worktable\\bsuir\\oop\\rxbet\\backendrxbet\\rxbetbackend\\rxbetbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4C767A3E-898E-4904-BF66-3D8980EC812E}|RxBetBackEnd\\RxBetBackEnd.csproj|solutionrelative:rxbetbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F14CE5A-6734-40E1-A947-5835C6FDD128}|Infrastructure\\Infrastructure.csproj|d:\\worktable\\bsuir\\oop\\rxbet\\backendrxbet\\rxbetbackend\\infrastructure\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F14CE5A-6734-40E1-A947-5835C6FDD128}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C767A3E-898E-4904-BF66-3D8980EC812E}|RxBetBackEnd\\RxBetBackEnd.csproj|d:\\worktable\\bsuir\\oop\\rxbet\\backendrxbet\\rxbetbackend\\rxbetbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C767A3E-898E-4904-BF66-3D8980EC812E}|RxBetBackEnd\\RxBetBackEnd.csproj|solutionrelative:rxbetbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C767A3E-898E-4904-BF66-3D8980EC812E}|RxBetBackEnd\\RxBetBackEnd.csproj|d:\\worktable\\bsuir\\oop\\rxbet\\backendrxbet\\rxbetbackend\\rxbetbackend\\rxbetbackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4C767A3E-898E-4904-BF66-3D8980EC812E}|RxBetBackEnd\\RxBetBackEnd.csproj|solutionrelative:rxbetbackend\\rxbetbackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A5FAD10-DB41-40C1-8922-FDB86D8D312D}|RxBetDataBase\\RxBetDataBase.csproj|d:\\worktable\\bsuir\\oop\\rxbet\\backendrxbet\\rxbetbackend\\rxbetdatabase\\rxbetdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A5FAD10-DB41-40C1-8922-FDB86D8D312D}|RxBetDataBase\\RxBetDataBase.csproj|solutionrelative:rxbetdatabase\\rxbetdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F14CE5A-6734-40E1-A947-5835C6FDD128}|Infrastructure\\Infrastructure.csproj|d:\\worktable\\bsuir\\oop\\rxbet\\backendrxbet\\rxbetbackend\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2F14CE5A-6734-40E1-A947-5835C6FDD128}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A5FAD10-DB41-40C1-8922-FDB86D8D312D}|RxBetDataBase\\RxBetDataBase.csproj|d:\\worktable\\bsuir\\oop\\rxbet\\backendrxbet\\rxbetbackend\\rxbetdatabase\\iusersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A5FAD10-DB41-40C1-8922-FDB86D8D312D}|RxBetDataBase\\RxBetDataBase.csproj|solutionrelative:rxbetdatabase\\iusersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C767A3E-898E-4904-BF66-3D8980EC812E}|RxBetBackEnd\\RxBetBackEnd.csproj|d:\\worktable\\bsuir\\oop\\rxbet\\backendrxbet\\rxbetbackend\\rxbetbackend\\contracts\\users\\registeruserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C767A3E-898E-4904-BF66-3D8980EC812E}|RxBetBackEnd\\RxBetBackEnd.csproj|solutionrelative:rxbetbackend\\contracts\\users\\registeruserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C767A3E-898E-4904-BF66-3D8980EC812E}|RxBetBackEnd\\RxBetBackEnd.csproj|d:\\worktable\\bsuir\\oop\\rxbet\\backendrxbet\\rxbetbackend\\rxbetbackend\\endpoints\\usersendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C767A3E-898E-4904-BF66-3D8980EC812E}|RxBetBackEnd\\RxBetBackEnd.csproj|solutionrelative:rxbetbackend\\endpoints\\usersendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4D5739-E828-49D5-AB4F-2EA47A66A226}|RxBetCore\\RxBetCore.csproj|d:\\worktable\\bsuir\\oop\\rxbet\\backendrxbet\\rxbetbackend\\rxbetcore\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF4D5739-E828-49D5-AB4F-2EA47A66A226}|RxBetCore\\RxBetCore.csproj|solutionrelative:rxbetcore\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4D5739-E828-49D5-AB4F-2EA47A66A226}|RxBetCore\\RxBetCore.csproj|d:\\worktable\\bsuir\\oop\\rxbet\\backendrxbet\\rxbetbackend\\rxbetcore\\models\\bet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF4D5739-E828-49D5-AB4F-2EA47A66A226}|RxBetCore\\RxBetCore.csproj|solutionrelative:rxbetcore\\models\\bet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A499FD6D-8A1B-4291-85B7-B91775E2A463}|RxBetAuthorization\\RxBetAuthorization.csproj|d:\\worktable\\bsuir\\oop\\rxbet\\backendrxbet\\rxbetbackend\\rxbetauthorization\\interfaces\\auth\\ipasswordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A499FD6D-8A1B-4291-85B7-B91775E2A463}|RxBetAuthorization\\RxBetAuthorization.csproj|solutionrelative:rxbetauthorization\\interfaces\\auth\\ipasswordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A499FD6D-8A1B-4291-85B7-B91775E2A463}|RxBetAuthorization\\RxBetAuthorization.csproj|d:\\worktable\\bsuir\\oop\\rxbet\\backendrxbet\\rxbetbackend\\rxbetauthorization\\interfaces\\auth\\ijwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A499FD6D-8A1B-4291-85B7-B91775E2A463}|RxBetAuthorization\\RxBetAuthorization.csproj|solutionrelative:rxbetauthorization\\interfaces\\auth\\ijwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A499FD6D-8A1B-4291-85B7-B91775E2A463}|RxBetAuthorization\\RxBetAuthorization.csproj|d:\\worktable\\bsuir\\oop\\rxbet\\backendrxbet\\rxbetbackend\\rxbetauthorization\\interfaces\\auth\\ijwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A499FD6D-8A1B-4291-85B7-B91775E2A463}|RxBetAuthorization\\RxBetAuthorization.csproj|solutionrelative:rxbetauthorization\\interfaces\\auth\\ijwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F14CE5A-6734-40E1-A947-5835C6FDD128}|Infrastructure\\Infrastructure.csproj|d:\\worktable\\bsuir\\oop\\rxbet\\backendrxbet\\rxbetbackend\\infrastructure\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F14CE5A-6734-40E1-A947-5835C6FDD128}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Bet.cs",
+              "DocumentMoniker": "D:\\WorkTable\\BSUIR\\oop\\RxBet\\BackEndRxBet\\RxBetBackEnd\\RxBetCore\\Models\\Bet.cs",
+              "RelativeDocumentMoniker": "RxBetCore\\Models\\Bet.cs",
+              "ToolTip": "D:\\WorkTable\\BSUIR\\oop\\RxBet\\BackEndRxBet\\RxBetBackEnd\\RxBetCore\\Models\\Bet.cs",
+              "RelativeToolTip": "RxBetCore\\Models\\Bet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBZwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T19:53:19.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RxBetDbContext.cs",
+              "DocumentMoniker": "D:\\WorkTable\\BSUIR\\oop\\RxBet\\BackEndRxBet\\RxBetBackEnd\\RxBetDataBase\\RxBetDbContext.cs",
+              "RelativeDocumentMoniker": "RxBetDataBase\\RxBetDbContext.cs",
+              "ToolTip": "D:\\WorkTable\\BSUIR\\oop\\RxBet\\BackEndRxBet\\RxBetBackEnd\\RxBetDataBase\\RxBetDbContext.cs",
+              "RelativeToolTip": "RxBetDataBase\\RxBetDbContext.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAADwvw4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T09:39:51.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserConfiguration.cs",
+              "DocumentMoniker": "D:\\WorkTable\\BSUIR\\oop\\RxBet\\BackEndRxBet\\RxBetBackEnd\\RxBetDataBase\\Configurations\\UserConfiguration.cs",
+              "RelativeDocumentMoniker": "RxBetDataBase\\Configurations\\UserConfiguration.cs",
+              "ToolTip": "D:\\WorkTable\\BSUIR\\oop\\RxBet\\BackEndRxBet\\RxBetBackEnd\\RxBetDataBase\\Configurations\\UserConfiguration.cs",
+              "RelativeToolTip": "RxBetDataBase\\Configurations\\UserConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T09:39:47.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BetConfiguration.cs",
+              "DocumentMoniker": "D:\\WorkTable\\BSUIR\\oop\\RxBet\\BackEndRxBet\\RxBetBackEnd\\RxBetDataBase\\Configurations\\BetConfiguration.cs",
+              "RelativeDocumentMoniker": "RxBetDataBase\\Configurations\\BetConfiguration.cs",
+              "ToolTip": "D:\\WorkTable\\BSUIR\\oop\\RxBet\\BackEndRxBet\\RxBetBackEnd\\RxBetDataBase\\Configurations\\BetConfiguration.cs",
+              "RelativeToolTip": "RxBetDataBase\\Configurations\\BetConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T09:39:45.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BetEntity.cs",
+              "DocumentMoniker": "D:\\WorkTable\\BSUIR\\oop\\RxBet\\BackEndRxBet\\RxBetBackEnd\\RxBetDataBase\\Models\\BetEntity.cs",
+              "RelativeDocumentMoniker": "RxBetDataBase\\Models\\BetEntity.cs",
+              "ToolTip": "D:\\WorkTable\\BSUIR\\oop\\RxBet\\BackEndRxBet\\RxBetBackEnd\\RxBetDataBase\\Models\\BetEntity.cs",
+              "RelativeToolTip": "RxBetDataBase\\Models\\BetEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T09:39:40.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IUsersRepository.cs",
+              "DocumentMoniker": "D:\\WorkTable\\BSUIR\\oop\\RxBet\\BackEndRxBet\\RxBetBackEnd\\RxBetDataBase\\IUsersRepository.cs",
+              "RelativeDocumentMoniker": "RxBetDataBase\\IUsersRepository.cs",
+              "ToolTip": "D:\\WorkTable\\BSUIR\\oop\\RxBet\\BackEndRxBet\\RxBetBackEnd\\RxBetDataBase\\IUsersRepository.cs",
+              "RelativeToolTip": "RxBetDataBase\\IUsersRepository.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAIAxwBEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T08:22:04.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IJwtOptions.cs",
+              "DocumentMoniker": "D:\\WorkTable\\BSUIR\\oop\\RxBet\\BackEndRxBet\\RxBetBackEnd\\RxBetAuthorization\\Interfaces\\Auth\\IJwtOptions.cs",
+              "RelativeDocumentMoniker": "RxBetAuthorization\\Interfaces\\Auth\\IJwtOptions.cs",
+              "ToolTip": "D:\\WorkTable\\BSUIR\\oop\\RxBet\\BackEndRxBet\\RxBetBackEnd\\RxBetAuthorization\\Interfaces\\Auth\\IJwtOptions.cs",
+              "RelativeToolTip": "RxBetAuthorization\\Interfaces\\Auth\\IJwtOptions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T08:16:57.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\WorkTable\\BSUIR\\oop\\RxBet\\BackEndRxBet\\RxBetBackEnd\\RxBetBackEnd\\Program.cs",
+              "RelativeDocumentMoniker": "RxBetBackEnd\\Program.cs",
+              "ToolTip": "D:\\WorkTable\\BSUIR\\oop\\RxBet\\BackEndRxBet\\RxBetBackEnd\\RxBetBackEnd\\Program.cs",
+              "RelativeToolTip": "RxBetBackEnd\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T06:56:10.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\WorkTable\\BSUIR\\oop\\RxBet\\BackEndRxBet\\RxBetBackEnd\\RxBetCore\\Models\\User.cs",
+              "RelativeDocumentMoniker": "RxBetCore\\Models\\User.cs",
+              "ToolTip": "D:\\WorkTable\\BSUIR\\oop\\RxBet\\BackEndRxBet\\RxBetBackEnd\\RxBetCore\\Models\\User.cs",
+              "RelativeToolTip": "RxBetCore\\Models\\User.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAIA+wBwAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T02:43:25.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserEntity.cs",
+              "DocumentMoniker": "D:\\WorkTable\\BSUIR\\oop\\RxBet\\BackEndRxBet\\RxBetBackEnd\\RxBetDataBase\\Models\\UserEntity.cs",
+              "RelativeDocumentMoniker": "RxBetDataBase\\Models\\UserEntity.cs",
+              "ToolTip": "D:\\WorkTable\\BSUIR\\oop\\RxBet\\BackEndRxBet\\RxBetBackEnd\\RxBetDataBase\\Models\\UserEntity.cs",
+              "RelativeToolTip": "RxBetDataBase\\Models\\UserEntity.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAA8wBAAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T02:41:37.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RxBetAuthorization.csproj",
+              "DocumentMoniker": "D:\\WorkTable\\BSUIR\\oop\\RxBet\\BackEndRxBet\\RxBetBackEnd\\RxBetAuthorization\\RxBetAuthorization.csproj",
+              "RelativeDocumentMoniker": "RxBetAuthorization\\RxBetAuthorization.csproj",
+              "ToolTip": "D:\\WorkTable\\BSUIR\\oop\\RxBet\\BackEndRxBet\\RxBetBackEnd\\RxBetAuthorization\\RxBetAuthorization.csproj",
+              "RelativeToolTip": "RxBetAuthorization\\RxBetAuthorization.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-22T02:36:30.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IJwtProvider.cs",
+              "DocumentMoniker": "D:\\WorkTable\\BSUIR\\oop\\RxBet\\BackEndRxBet\\RxBetBackEnd\\RxBetAuthorization\\Interfaces\\Auth\\IJwtProvider.cs",
+              "RelativeDocumentMoniker": "RxBetAuthorization\\Interfaces\\Auth\\IJwtProvider.cs",
+              "ToolTip": "D:\\WorkTable\\BSUIR\\oop\\RxBet\\BackEndRxBet\\RxBetBackEnd\\RxBetAuthorization\\Interfaces\\Auth\\IJwtProvider.cs",
+              "RelativeToolTip": "RxBetAuthorization\\Interfaces\\Auth\\IJwtProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T02:10:11.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "JwtOptions.cs",
+              "DocumentMoniker": "D:\\WorkTable\\BSUIR\\oop\\RxBet\\BackEndRxBet\\RxBetBackEnd\\Infrastructure\\JwtOptions.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\JwtOptions.cs",
+              "ToolTip": "D:\\WorkTable\\BSUIR\\oop\\RxBet\\BackEndRxBet\\RxBetBackEnd\\Infrastructure\\JwtOptions.cs",
+              "RelativeToolTip": "Infrastructure\\JwtOptions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T01:54:27.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\WorkTable\\BSUIR\\oop\\RxBet\\BackEndRxBet\\RxBetBackEnd\\RxBetBackEnd\\appsettings.json",
+              "RelativeDocumentMoniker": "RxBetBackEnd\\appsettings.json",
+              "ToolTip": "D:\\WorkTable\\BSUIR\\oop\\RxBet\\BackEndRxBet\\RxBetBackEnd\\RxBetBackEnd\\appsettings.json",
+              "RelativeToolTip": "RxBetBackEnd\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-22T01:50:34.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RxBetBackEnd.csproj",
+              "DocumentMoniker": "D:\\WorkTable\\BSUIR\\oop\\RxBet\\BackEndRxBet\\RxBetBackEnd\\RxBetBackEnd\\RxBetBackEnd.csproj",
+              "RelativeDocumentMoniker": "RxBetBackEnd\\RxBetBackEnd.csproj",
+              "ToolTip": "D:\\WorkTable\\BSUIR\\oop\\RxBet\\BackEndRxBet\\RxBetBackEnd\\RxBetBackEnd\\RxBetBackEnd.csproj",
+              "RelativeToolTip": "RxBetBackEnd\\RxBetBackEnd.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-22T01:50:30.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Infrastructure.csproj",
+              "DocumentMoniker": "D:\\WorkTable\\BSUIR\\oop\\RxBet\\BackEndRxBet\\RxBetBackEnd\\Infrastructure\\Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Infrastructure\\Infrastructure.csproj",
+              "ToolTip": "D:\\WorkTable\\BSUIR\\oop\\RxBet\\BackEndRxBet\\RxBetBackEnd\\Infrastructure\\Infrastructure.csproj",
+              "RelativeToolTip": "Infrastructure\\Infrastructure.csproj",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-22T01:40:31.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "JwtProvider.cs",
+              "DocumentMoniker": "D:\\WorkTable\\BSUIR\\oop\\RxBet\\BackEndRxBet\\RxBetBackEnd\\Infrastructure\\JwtProvider.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\JwtProvider.cs",
+              "ToolTip": "D:\\WorkTable\\BSUIR\\oop\\RxBet\\BackEndRxBet\\RxBetBackEnd\\Infrastructure\\JwtProvider.cs",
+              "RelativeToolTip": "Infrastructure\\JwtProvider.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAtwBQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T01:40:57.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "D:\\WorkTable\\BSUIR\\oop\\RxBet\\BackEndRxBet\\RxBetBackEnd\\Infrastructure\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\PasswordHasher.cs",
+              "ToolTip": "D:\\WorkTable\\BSUIR\\oop\\RxBet\\BackEndRxBet\\RxBetBackEnd\\Infrastructure\\PasswordHasher.cs",
+              "RelativeToolTip": "Infrastructure\\PasswordHasher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T01:37:41.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IPasswordHasher.cs",
+              "DocumentMoniker": "D:\\WorkTable\\BSUIR\\oop\\RxBet\\BackEndRxBet\\RxBetBackEnd\\RxBetAuthorization\\Interfaces\\Auth\\IPasswordHasher.cs",
+              "RelativeDocumentMoniker": "RxBetAuthorization\\Interfaces\\Auth\\IPasswordHasher.cs",
+              "ToolTip": "D:\\WorkTable\\BSUIR\\oop\\RxBet\\BackEndRxBet\\RxBetBackEnd\\RxBetAuthorization\\Interfaces\\Auth\\IPasswordHasher.cs",
+              "RelativeToolTip": "RxBetAuthorization\\Interfaces\\Auth\\IPasswordHasher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T01:37:29.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginUserRequest.cs",
+              "DocumentMoniker": "D:\\WorkTable\\BSUIR\\oop\\RxBet\\BackEndRxBet\\RxBetBackEnd\\RxBetBackEnd\\Contracts\\Users\\LoginUserRequest.cs",
+              "RelativeDocumentMoniker": "RxBetBackEnd\\Contracts\\Users\\LoginUserRequest.cs",
+              "ToolTip": "D:\\WorkTable\\BSUIR\\oop\\RxBet\\BackEndRxBet\\RxBetBackEnd\\RxBetBackEnd\\Contracts\\Users\\LoginUserRequest.cs",
+              "RelativeToolTip": "RxBetBackEnd\\Contracts\\Users\\LoginUserRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T01:20:26.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RegisterUserRequest.cs",
+              "DocumentMoniker": "D:\\WorkTable\\BSUIR\\oop\\RxBet\\BackEndRxBet\\RxBetBackEnd\\RxBetBackEnd\\Contracts\\Users\\RegisterUserRequest.cs",
+              "RelativeDocumentMoniker": "RxBetBackEnd\\Contracts\\Users\\RegisterUserRequest.cs",
+              "ToolTip": "D:\\WorkTable\\BSUIR\\oop\\RxBet\\BackEndRxBet\\RxBetBackEnd\\RxBetBackEnd\\Contracts\\Users\\RegisterUserRequest.cs",
+              "RelativeToolTip": "RxBetBackEnd\\Contracts\\Users\\RegisterUserRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T01:20:07.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UsersEndpoints.cs",
+              "DocumentMoniker": "D:\\WorkTable\\BSUIR\\oop\\RxBet\\BackEndRxBet\\RxBetBackEnd\\RxBetBackEnd\\Endpoints\\UsersEndpoints.cs",
+              "RelativeDocumentMoniker": "RxBetBackEnd\\Endpoints\\UsersEndpoints.cs",
+              "ToolTip": "D:\\WorkTable\\BSUIR\\oop\\RxBet\\BackEndRxBet\\RxBetBackEnd\\RxBetBackEnd\\Endpoints\\UsersEndpoints.cs",
+              "RelativeToolTip": "RxBetBackEnd\\Endpoints\\UsersEndpoints.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAuwA0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T01:17:34.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsersService.cs",
+              "DocumentMoniker": "D:\\WorkTable\\BSUIR\\oop\\RxBet\\BackEndRxBet\\RxBetBackEnd\\RxBetAuthorization\\Services\\UsersService.cs",
+              "RelativeDocumentMoniker": "RxBetAuthorization\\Services\\UsersService.cs",
+              "ToolTip": "D:\\WorkTable\\BSUIR\\oop\\RxBet\\BackEndRxBet\\RxBetBackEnd\\RxBetAuthorization\\Services\\UsersService.cs",
+              "RelativeToolTip": "RxBetAuthorization\\Services\\UsersService.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAYwB8AAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T01:15:00.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsersRepository.cs",
+              "DocumentMoniker": "D:\\WorkTable\\BSUIR\\oop\\RxBet\\BackEndRxBet\\RxBetBackEnd\\RxBetDataBase\\Repositories\\UsersRepository.cs",
+              "RelativeDocumentMoniker": "RxBetDataBase\\Repositories\\UsersRepository.cs",
+              "ToolTip": "D:\\WorkTable\\BSUIR\\oop\\RxBet\\BackEndRxBet\\RxBetBackEnd\\RxBetDataBase\\Repositories\\UsersRepository.cs",
+              "RelativeToolTip": "RxBetDataBase\\Repositories\\UsersRepository.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAA1wCAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T01:14:55.421Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

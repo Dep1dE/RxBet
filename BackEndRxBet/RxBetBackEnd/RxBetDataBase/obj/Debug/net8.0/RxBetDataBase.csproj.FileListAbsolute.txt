@@ -1,0 +1,38 @@
+/media/petr/S21/RxBetBackEnd/RxBetDataBase/obj/Debug/net8.0/RxBetDataBase.csproj.AssemblyReference.cache
+/media/petr/S21/RxBetBackEnd/RxBetDataBase/obj/Debug/net8.0/RxBetDataBase.GeneratedMSBuildEditorConfig.editorconfig
+/media/petr/S21/RxBetBackEnd/RxBetDataBase/obj/Debug/net8.0/RxBetDataBase.AssemblyInfoInputs.cache
+/media/petr/S21/RxBetBackEnd/RxBetDataBase/obj/Debug/net8.0/RxBetDataBase.AssemblyInfo.cs
+/media/petr/S21/RxBetBackEnd/RxBetDataBase/obj/Debug/net8.0/RxBetDataBase.csproj.CoreCompileInputs.cache
+/media/petr/S21/RxBetBackEnd/RxBetDataBase/bin/Debug/net8.0/RxBetDataBase.deps.json
+/media/petr/S21/RxBetBackEnd/RxBetDataBase/bin/Debug/net8.0/RxBetDataBase.dll
+/media/petr/S21/RxBetBackEnd/RxBetDataBase/bin/Debug/net8.0/RxBetDataBase.pdb
+/media/petr/S21/RxBetBackEnd/RxBetDataBase/obj/Debug/net8.0/RxBetDataBase.dll
+/media/petr/S21/RxBetBackEnd/RxBetDataBase/obj/Debug/net8.0/refint/RxBetDataBase.dll
+/media/petr/S21/RxBetBackEnd/RxBetDataBase/obj/Debug/net8.0/RxBetDataBase.pdb
+/media/petr/S21/RxBetBackEnd/RxBetDataBase/obj/Debug/net8.0/ref/RxBetDataBase.dll
+C:\Users\vlads\OneDrive\Рабочий стол\RxBetBackEnd\RxBetDataBase\bin\Debug\net8.0\RxBetDataBase.deps.json
+C:\Users\vlads\OneDrive\Рабочий стол\RxBetBackEnd\RxBetDataBase\bin\Debug\net8.0\RxBetDataBase.dll
+C:\Users\vlads\OneDrive\Рабочий стол\RxBetBackEnd\RxBetDataBase\bin\Debug\net8.0\RxBetDataBase.pdb
+C:\Users\vlads\OneDrive\Рабочий стол\RxBetBackEnd\RxBetDataBase\obj\Debug\net8.0\RxBetDataBase.csproj.AssemblyReference.cache
+C:\Users\vlads\OneDrive\Рабочий стол\RxBetBackEnd\RxBetDataBase\obj\Debug\net8.0\RxBetDataBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vlads\OneDrive\Рабочий стол\RxBetBackEnd\RxBetDataBase\obj\Debug\net8.0\RxBetDataBase.AssemblyInfoInputs.cache
+C:\Users\vlads\OneDrive\Рабочий стол\RxBetBackEnd\RxBetDataBase\obj\Debug\net8.0\RxBetDataBase.AssemblyInfo.cs
+C:\Users\vlads\OneDrive\Рабочий стол\RxBetBackEnd\RxBetDataBase\obj\Debug\net8.0\RxBetDataBase.csproj.CoreCompileInputs.cache
+C:\Users\vlads\OneDrive\Рабочий стол\RxBetBackEnd\RxBetDataBase\obj\Debug\net8.0\RxBetDataBase.dll
+C:\Users\vlads\OneDrive\Рабочий стол\RxBetBackEnd\RxBetDataBase\obj\Debug\net8.0\refint\RxBetDataBase.dll
+C:\Users\vlads\OneDrive\Рабочий стол\RxBetBackEnd\RxBetDataBase\obj\Debug\net8.0\RxBetDataBase.pdb
+C:\Users\vlads\OneDrive\Рабочий стол\RxBetBackEnd\RxBetDataBase\obj\Debug\net8.0\ref\RxBetDataBase.dll
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetDataBase\bin\Debug\net8.0\RxBetDataBase.deps.json
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetDataBase\bin\Debug\net8.0\RxBetDataBase.runtimeconfig.json
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetDataBase\bin\Debug\net8.0\RxBetDataBase.dll
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetDataBase\bin\Debug\net8.0\RxBetDataBase.pdb
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetDataBase\obj\Debug\net8.0\RxBetDataBase.csproj.AssemblyReference.cache
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetDataBase\obj\Debug\net8.0\RxBetDataBase.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetDataBase\obj\Debug\net8.0\RxBetDataBase.AssemblyInfoInputs.cache
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetDataBase\obj\Debug\net8.0\RxBetDataBase.AssemblyInfo.cs
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetDataBase\obj\Debug\net8.0\RxBetDataBase.csproj.CoreCompileInputs.cache
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetDataBase\obj\Debug\net8.0\RxBetDataBase.dll
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetDataBase\obj\Debug\net8.0\refint\RxBetDataBase.dll
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetDataBase\obj\Debug\net8.0\RxBetDataBase.pdb
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetDataBase\obj\Debug\net8.0\RxBetDataBase.genruntimeconfig.cache
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetDataBase\obj\Debug\net8.0\ref\RxBetDataBase.dll

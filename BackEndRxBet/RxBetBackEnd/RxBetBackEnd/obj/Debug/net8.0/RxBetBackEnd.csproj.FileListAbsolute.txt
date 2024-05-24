@@ -1,0 +1,199 @@
+/media/petr/S21/RxBetBackEnd/RxBetBackEnd/bin/Debug/net8.0/appsettings.Development.json
+/media/petr/S21/RxBetBackEnd/RxBetBackEnd/bin/Debug/net8.0/appsettings.json
+/media/petr/S21/RxBetBackEnd/RxBetBackEnd/bin/Debug/net8.0/RxBetBackEnd
+/media/petr/S21/RxBetBackEnd/RxBetBackEnd/bin/Debug/net8.0/RxBetBackEnd.deps.json
+/media/petr/S21/RxBetBackEnd/RxBetBackEnd/bin/Debug/net8.0/RxBetBackEnd.runtimeconfig.json
+/media/petr/S21/RxBetBackEnd/RxBetBackEnd/bin/Debug/net8.0/RxBetBackEnd.dll
+/media/petr/S21/RxBetBackEnd/RxBetBackEnd/bin/Debug/net8.0/RxBetBackEnd.pdb
+/media/petr/S21/RxBetBackEnd/RxBetBackEnd/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/media/petr/S21/RxBetBackEnd/RxBetBackEnd/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/media/petr/S21/RxBetBackEnd/RxBetBackEnd/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/media/petr/S21/RxBetBackEnd/RxBetBackEnd/bin/Debug/net8.0/Microsoft.Extensions.Caching.Abstractions.dll
+/media/petr/S21/RxBetBackEnd/RxBetBackEnd/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+/media/petr/S21/RxBetBackEnd/RxBetBackEnd/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/media/petr/S21/RxBetBackEnd/RxBetBackEnd/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+/media/petr/S21/RxBetBackEnd/RxBetBackEnd/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/media/petr/S21/RxBetBackEnd/RxBetBackEnd/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+/media/petr/S21/RxBetBackEnd/RxBetBackEnd/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/media/petr/S21/RxBetBackEnd/RxBetBackEnd/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/media/petr/S21/RxBetBackEnd/RxBetBackEnd/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+/media/petr/S21/RxBetBackEnd/RxBetBackEnd/bin/Debug/net8.0/Npgsql.dll
+/media/petr/S21/RxBetBackEnd/RxBetBackEnd/bin/Debug/net8.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/media/petr/S21/RxBetBackEnd/RxBetBackEnd/bin/Debug/net8.0/RxBetDataBase.dll
+/media/petr/S21/RxBetBackEnd/RxBetBackEnd/bin/Debug/net8.0/RxBetDataBase.pdb
+/media/petr/S21/RxBetBackEnd/RxBetBackEnd/obj/Debug/net8.0/RxBetBackEnd.csproj.AssemblyReference.cache
+/media/petr/S21/RxBetBackEnd/RxBetBackEnd/obj/Debug/net8.0/RxBetBackEnd.GeneratedMSBuildEditorConfig.editorconfig
+/media/petr/S21/RxBetBackEnd/RxBetBackEnd/obj/Debug/net8.0/RxBetBackEnd.AssemblyInfoInputs.cache
+/media/petr/S21/RxBetBackEnd/RxBetBackEnd/obj/Debug/net8.0/RxBetBackEnd.AssemblyInfo.cs
+/media/petr/S21/RxBetBackEnd/RxBetBackEnd/obj/Debug/net8.0/RxBetBackEnd.csproj.CoreCompileInputs.cache
+/media/petr/S21/RxBetBackEnd/RxBetBackEnd/obj/Debug/net8.0/RxBetBackEnd.MvcApplicationPartsAssemblyInfo.cache
+/media/petr/S21/RxBetBackEnd/RxBetBackEnd/obj/Debug/net8.0/staticwebassets.build.json
+/media/petr/S21/RxBetBackEnd/RxBetBackEnd/obj/Debug/net8.0/staticwebassets.development.json
+/media/petr/S21/RxBetBackEnd/RxBetBackEnd/obj/Debug/net8.0/staticwebassets/msbuild.RxBetBackEnd.Microsoft.AspNetCore.StaticWebAssets.props
+/media/petr/S21/RxBetBackEnd/RxBetBackEnd/obj/Debug/net8.0/staticwebassets/msbuild.build.RxBetBackEnd.props
+/media/petr/S21/RxBetBackEnd/RxBetBackEnd/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.RxBetBackEnd.props
+/media/petr/S21/RxBetBackEnd/RxBetBackEnd/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.RxBetBackEnd.props
+/media/petr/S21/RxBetBackEnd/RxBetBackEnd/obj/Debug/net8.0/staticwebassets.pack.json
+/media/petr/S21/RxBetBackEnd/RxBetBackEnd/obj/Debug/net8.0/scopedcss/bundle/RxBetBackEnd.styles.css
+/media/petr/S21/RxBetBackEnd/RxBetBackEnd/obj/Debug/net8.0/RxBetBac.E591A6FF.Up2Date
+/media/petr/S21/RxBetBackEnd/RxBetBackEnd/obj/Debug/net8.0/RxBetBackEnd.dll
+/media/petr/S21/RxBetBackEnd/RxBetBackEnd/obj/Debug/net8.0/refint/RxBetBackEnd.dll
+/media/petr/S21/RxBetBackEnd/RxBetBackEnd/obj/Debug/net8.0/RxBetBackEnd.pdb
+/media/petr/S21/RxBetBackEnd/RxBetBackEnd/obj/Debug/net8.0/RxBetBackEnd.genruntimeconfig.cache
+/media/petr/S21/RxBetBackEnd/RxBetBackEnd/obj/Debug/net8.0/ref/RxBetBackEnd.dll
+C:\Users\vlads\OneDrive\Рабочий стол\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\vlads\OneDrive\Рабочий стол\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\appsettings.json
+C:\Users\vlads\OneDrive\Рабочий стол\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\RxBetBackEnd.exe
+C:\Users\vlads\OneDrive\Рабочий стол\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\RxBetBackEnd.deps.json
+C:\Users\vlads\OneDrive\Рабочий стол\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\RxBetBackEnd.runtimeconfig.json
+C:\Users\vlads\OneDrive\Рабочий стол\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\RxBetBackEnd.dll
+C:\Users\vlads\OneDrive\Рабочий стол\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\RxBetBackEnd.pdb
+C:\Users\vlads\OneDrive\Рабочий стол\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\vlads\OneDrive\Рабочий стол\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\vlads\OneDrive\Рабочий стол\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\vlads\OneDrive\Рабочий стол\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\vlads\OneDrive\Рабочий стол\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\vlads\OneDrive\Рабочий стол\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\vlads\OneDrive\Рабочий стол\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\vlads\OneDrive\Рабочий стол\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\vlads\OneDrive\Рабочий стол\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\vlads\OneDrive\Рабочий стол\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\vlads\OneDrive\Рабочий стол\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\vlads\OneDrive\Рабочий стол\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\vlads\OneDrive\Рабочий стол\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\Npgsql.dll
+C:\Users\vlads\OneDrive\Рабочий стол\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\vlads\OneDrive\Рабочий стол\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\RxBetDataBase.dll
+C:\Users\vlads\OneDrive\Рабочий стол\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\RxBetDataBase.pdb
+C:\Users\vlads\OneDrive\Рабочий стол\RxBetBackEnd\RxBetBackEnd\obj\Debug\net8.0\RxBetBackEnd.csproj.AssemblyReference.cache
+C:\Users\vlads\OneDrive\Рабочий стол\RxBetBackEnd\RxBetBackEnd\obj\Debug\net8.0\RxBetBackEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vlads\OneDrive\Рабочий стол\RxBetBackEnd\RxBetBackEnd\obj\Debug\net8.0\RxBetBackEnd.AssemblyInfoInputs.cache
+C:\Users\vlads\OneDrive\Рабочий стол\RxBetBackEnd\RxBetBackEnd\obj\Debug\net8.0\RxBetBackEnd.AssemblyInfo.cs
+C:\Users\vlads\OneDrive\Рабочий стол\RxBetBackEnd\RxBetBackEnd\obj\Debug\net8.0\RxBetBackEnd.csproj.CoreCompileInputs.cache
+C:\Users\vlads\OneDrive\Рабочий стол\RxBetBackEnd\RxBetBackEnd\obj\Debug\net8.0\RxBetBackEnd.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vlads\OneDrive\Рабочий стол\RxBetBackEnd\RxBetBackEnd\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\vlads\OneDrive\Рабочий стол\RxBetBackEnd\RxBetBackEnd\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\vlads\OneDrive\Рабочий стол\RxBetBackEnd\RxBetBackEnd\obj\Debug\net8.0\staticwebassets\msbuild.RxBetBackEnd.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\vlads\OneDrive\Рабочий стол\RxBetBackEnd\RxBetBackEnd\obj\Debug\net8.0\staticwebassets\msbuild.build.RxBetBackEnd.props
+C:\Users\vlads\OneDrive\Рабочий стол\RxBetBackEnd\RxBetBackEnd\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RxBetBackEnd.props
+C:\Users\vlads\OneDrive\Рабочий стол\RxBetBackEnd\RxBetBackEnd\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RxBetBackEnd.props
+C:\Users\vlads\OneDrive\Рабочий стол\RxBetBackEnd\RxBetBackEnd\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\vlads\OneDrive\Рабочий стол\RxBetBackEnd\RxBetBackEnd\obj\Debug\net8.0\scopedcss\bundle\RxBetBackEnd.styles.css
+C:\Users\vlads\OneDrive\Рабочий стол\RxBetBackEnd\RxBetBackEnd\obj\Debug\net8.0\RxBetBac.E591A6FF.Up2Date
+C:\Users\vlads\OneDrive\Рабочий стол\RxBetBackEnd\RxBetBackEnd\obj\Debug\net8.0\RxBetBackEnd.dll
+C:\Users\vlads\OneDrive\Рабочий стол\RxBetBackEnd\RxBetBackEnd\obj\Debug\net8.0\refint\RxBetBackEnd.dll
+C:\Users\vlads\OneDrive\Рабочий стол\RxBetBackEnd\RxBetBackEnd\obj\Debug\net8.0\RxBetBackEnd.pdb
+C:\Users\vlads\OneDrive\Рабочий стол\RxBetBackEnd\RxBetBackEnd\obj\Debug\net8.0\RxBetBackEnd.genruntimeconfig.cache
+C:\Users\vlads\OneDrive\Рабочий стол\RxBetBackEnd\RxBetBackEnd\obj\Debug\net8.0\ref\RxBetBackEnd.dll
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\appsettings.Development.json
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\appsettings.json
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\RxBetBackEnd.exe
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\RxBetBackEnd.deps.json
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\RxBetBackEnd.runtimeconfig.json
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\RxBetBackEnd.dll
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\RxBetBackEnd.pdb
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\BCrypt.Net-Next.dll
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\Humanizer.dll
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\Npgsql.dll
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\System.CodeDom.dll
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\Infrastructure.dll
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\RxBetAuthorization.dll
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\RxBetCore.dll
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\RxBetDataBase.dll
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\Infrastructure.pdb
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\RxBetAuthorization.pdb
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\RxBetCore.pdb
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\bin\Debug\net8.0\RxBetDataBase.pdb
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\obj\Debug\net8.0\RxBetBackEnd.csproj.AssemblyReference.cache
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\obj\Debug\net8.0\RxBetBackEnd.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\obj\Debug\net8.0\RxBetBackEnd.AssemblyInfoInputs.cache
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\obj\Debug\net8.0\RxBetBackEnd.AssemblyInfo.cs
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\obj\Debug\net8.0\RxBetBackEnd.csproj.CoreCompileInputs.cache
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\obj\Debug\net8.0\RxBetBackEnd.MvcApplicationPartsAssemblyInfo.cache
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\obj\Debug\net8.0\staticwebassets.build.json
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\obj\Debug\net8.0\staticwebassets.development.json
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\obj\Debug\net8.0\staticwebassets\msbuild.RxBetBackEnd.Microsoft.AspNetCore.StaticWebAssets.props
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\obj\Debug\net8.0\staticwebassets\msbuild.build.RxBetBackEnd.props
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RxBetBackEnd.props
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RxBetBackEnd.props
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\obj\Debug\net8.0\staticwebassets.pack.json
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\obj\Debug\net8.0\scopedcss\bundle\RxBetBackEnd.styles.css
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\obj\Debug\net8.0\RxBetBac.E591A6FF.Up2Date
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\obj\Debug\net8.0\RxBetBackEnd.dll
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\obj\Debug\net8.0\refint\RxBetBackEnd.dll
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\obj\Debug\net8.0\RxBetBackEnd.pdb
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\obj\Debug\net8.0\RxBetBackEnd.genruntimeconfig.cache
+D:\WorkTable\BSUIR\oop\RxBet\BackEndRxBet\RxBetBackEnd\RxBetBackEnd\obj\Debug\net8.0\ref\RxBetBackEnd.dll
